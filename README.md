@@ -7,9 +7,9 @@
 
 ### React - Semana 1
 
-- [ ] [**Martes** *22-11-2022*](/Week1/Martes-22-11-22.md) 
-- [ ] [**Miércoles** *23-11-2022*](/Week1/Miércoles-23-11-22.md) 
-- [ ] [**Jueves** *24-11-2022*](/Week1/Jueves-24-11-22.md) 
+- [x] [**Martes** *22-11-2022*](/Week1/Martes-22-11-22.md) 
+- [x] [**Miércoles** *23-11-2022*](/Week1/Miércoles-23-11-22.md) 
+- [x] [**Jueves** *24-11-2022*](/Week1/Jueves-24-11-22.md) 
 
 ### React - Semana 2
 
